@@ -1,1 +1,1 @@
-Progress z knihy Automate boring stuff with Python 
+Progress from Automate boring stuff with Python pdf book
