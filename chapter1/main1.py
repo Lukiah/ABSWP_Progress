@@ -1,0 +1,10 @@
+# This program is too complicated to understand. Do no try to do so.
+print('Hello there')
+print('What is your name?')
+myName = input()
+print('It is good to meet you, ' + myName)
+print('The length of your name is:')
+print(len(myName))
+print('What is your age, ' + myName + '?')
+myAge = input()
+print('You will be ' + str(int(myAge) + 1) + ' years old next year :)')

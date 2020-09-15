@@ -1,0 +1,9 @@
+import random
+messages = ['Je to jisté',
+            'Nejspíš ano',
+            'Pravděpodobně',
+'Nejsem si jistý. Zeptej se znovu.',
+'Není to příliš pravděpodobné',
+'Má odpověď zní ne']
+
+print(messages[random.randint(0,len(messages)-1)]) # -1, protože délka listu je 6, ale index začíná na 0, tudíž na pozici 6 již list neexistuje
